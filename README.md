@@ -1,4 +1,4 @@
-CrawlingDemo
+CrawleDemo
 ===============
 This is a simple Spring MVC application of the standard [Spring MVC Crawl](Assignment https://github.com/patelbibhuti/Assignment/tree/CrawleDemo-patch-1) application by the LBG team. 
 
