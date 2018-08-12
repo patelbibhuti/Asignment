@@ -1,6 +1,6 @@
 CrawlingDemo
 ===============
-This is a simple Spring MVC application of the standard [Spring MVC Crawl](Assignment https://github.com/patelbibhuti/Assignment/tree/patelbibhuti-patch-1/CrawlingDemo) application by the LBG team. 
+This is a simple Spring MVC application of the standard [Spring MVC Crawl](Assignment https://github.com/patelbibhuti/Assignment/tree/CrawleDemo-patch-1) application by the LBG team. 
 
 With this capsule it is possible to run the **CrawlingDemo** as a **web ** application after deploying it to a servlet container like tomcat.
 
